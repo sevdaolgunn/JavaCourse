@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-       // Worker w1= new Worker();
-       // w1.name= "sevda";
+        // Worker w1= new Worker();
+        // w1.name= "sevda";
         //w1.workingHours=10;
         //w1.wage=55;
         //w1.socialSecurityNumber=1234;
@@ -33,18 +33,5 @@ public class Main {
 
         w2.displayInfo();
         System.out.println("Worker Salary:" +w2.displaySalary());
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

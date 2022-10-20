@@ -11,5 +11,4 @@ public class Worker {
     float displaySalary(){
         return wage*workingHours;
     }
-
 }
