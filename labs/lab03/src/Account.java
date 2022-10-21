@@ -79,7 +79,6 @@ public class Account {
             amount=input.nextInt();
             salary= amount+ balance;
             System.out.println("Amount in your account: "+salary);
-
         }
         else {
             getBalance();
