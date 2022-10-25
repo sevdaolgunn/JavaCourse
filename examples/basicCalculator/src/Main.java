@@ -25,7 +25,7 @@ public class Main {
         }
         else if (operation.equals("-")){
             ans = s1-s2;
-            System.out.println("answer is: "+ ans );
+            System.out.println("answer is: "+ans );
 
         }
         else if (operation.equals("*")){
