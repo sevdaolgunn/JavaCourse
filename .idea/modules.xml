@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCourse.iml" filepath="$PROJECT_DIR$/.idea/JavaCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/basicCalculator/basicCalculator.iml" filepath="$PROJECT_DIR$/examples/basicCalculator/basicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/calculateAvarge/calculateAvarge.iml" filepath="$PROJECT_DIR$/examples/calculateAvarge/calculateAvarge.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/calculateKDV/calculateKDV.iml" filepath="$PROJECT_DIR$/examples/calculateKDV/calculateKDV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseEx/courseEx.iml" filepath="$PROJECT_DIR$/courseEx/courseEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseEx/exceptionEx1/exceptionEx1.iml" filepath="$PROJECT_DIR$/courseEx/exceptionEx1/exceptionEx1.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab02/lab02.iml" filepath="$PROJECT_DIR$/labs/lab02/lab02.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab03/lab03.iml" filepath="$PROJECT_DIR$/labs/lab03/lab03.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/labs.iml" filepath="$PROJECT_DIR$/labs/labs.iml" />
