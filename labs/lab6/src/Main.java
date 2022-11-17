@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
 
         Person person1 = new Person("Sevda", "OLGUN", 20, 1234);
-
         //person1.getAll();
 
         Person person2 = new Person("Sevda", "OLGUN");

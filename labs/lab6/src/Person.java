@@ -11,8 +11,6 @@ public class Person {
         this.id = id;
         this.age = age;
     }
-
-
     Person(String firstName, String lastName){
 
         this(firstName,lastName,0,0);
