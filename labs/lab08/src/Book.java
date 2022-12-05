@@ -7,6 +7,7 @@ public class Book extends Document{
     }
 
     public String getTitle(){
+
         return title;
     }
 

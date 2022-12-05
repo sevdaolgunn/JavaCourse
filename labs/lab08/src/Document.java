@@ -7,6 +7,7 @@ public class Document {
         this.date = date;
     }
     public String[] getAuthors(){
+
         return authors;
     }
 

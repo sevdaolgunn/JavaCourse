@@ -10,6 +10,7 @@ public class Date {
     }
 
     public void getDate() {
-        System.out.println(day + " " + month + " " + year);
+        System.out.println(day+
+                " " + month + " " + year);
     }
 }

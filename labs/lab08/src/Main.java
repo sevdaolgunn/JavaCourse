@@ -16,6 +16,7 @@ public class Main {
 
         Book book = new Book(new String[] {"Ali", "Ayşe"}, new Date(12,"June",2015),"Nefes Nefese");
         System.out.println(book.getTitle());
+        book.getAuthor();
 
 
 
