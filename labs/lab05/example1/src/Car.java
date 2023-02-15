@@ -1,5 +1,4 @@
 public class Car {
-
     private Person owner;
     private String color;
     private String model;
@@ -18,6 +17,5 @@ public class Car {
     public Person getOwner(){
         return owner;
     }
-
 
 }

@@ -2,16 +2,53 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/examExamples/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/examExamples/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/Cars/Cars.iml" filepath="$PROJECT_DIR$/examExamples/Cars/Cars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseTopics/Collections/Collections.iml" filepath="$PROJECT_DIR$/courseTopics/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/CompanyExample/CompanyExample.iml" filepath="$PROJECT_DIR$/examExamples/CompanyExample/CompanyExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseTopics/Collections/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/courseTopics/Collections/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCourse.iml" filepath="$PROJECT_DIR$/.idea/JavaCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseEx/MultiClassExamples/MultiClassExamples.iml" filepath="$PROJECT_DIR$/courseEx/MultiClassExamples/MultiClassExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseEx/MultiClassExamples/RockScissorPaperGame/RockScissorPaperGame.iml" filepath="$PROJECT_DIR$/courseEx/MultiClassExamples/RockScissorPaperGame/RockScissorPaperGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseEx/StaticKeywordEx/StaticKeywordEx.iml" filepath="$PROJECT_DIR$/courseEx/StaticKeywordEx/StaticKeywordEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/animals/animals.iml" filepath="$PROJECT_DIR$/examExamples/animals/animals.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/basicCalculator/basicCalculator.iml" filepath="$PROJECT_DIR$/examples/basicCalculator/basicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/calculateAvarge/calculateAvarge.iml" filepath="$PROJECT_DIR$/examples/calculateAvarge/calculateAvarge.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/calculateKDV/calculateKDV.iml" filepath="$PROJECT_DIR$/examples/calculateKDV/calculateKDV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/compileAndRun/compileAndRun.iml" filepath="$PROJECT_DIR$/examples/compileAndRun/compileAndRun.iml" />
       <module fileurl="file://$PROJECT_DIR$/courseEx/courseEx.iml" filepath="$PROJECT_DIR$/courseEx/courseEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseTopics/courseTopics.iml" filepath="$PROJECT_DIR$/courseTopics/courseTopics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseEx/MultiClassExamples/ex01/ex01.iml" filepath="$PROJECT_DIR$/courseEx/MultiClassExamples/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseEx/MultiClassExamples/ex02/ex02.iml" filepath="$PROJECT_DIR$/courseEx/MultiClassExamples/ex02/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab04/ex1/ex1.iml" filepath="$PROJECT_DIR$/labs/lab04/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab04/ex2/ex2.iml" filepath="$PROJECT_DIR$/labs/lab04/ex2/ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/examExamples.iml" filepath="$PROJECT_DIR$/examExamples/examExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab05/example1/example1.iml" filepath="$PROJECT_DIR$/labs/lab05/example1/example1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab05/example2/example2.iml" filepath="$PROJECT_DIR$/labs/lab05/example2/example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab05/example3/example3.iml" filepath="$PROJECT_DIR$/labs/lab05/example3/example3.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/exceptionEx01/exceptionEx01.iml" filepath="$PROJECT_DIR$/examExamples/exceptionEx01/exceptionEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/exceptionEx02/exceptionEx02.iml" filepath="$PROJECT_DIR$/examExamples/exceptionEx02/exceptionEx02.iml" />
       <module fileurl="file://$PROJECT_DIR$/courseEx/exceptionEx1/exceptionEx1.iml" filepath="$PROJECT_DIR$/courseEx/exceptionEx1/exceptionEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/finalBookExample/finalBookExample.iml" filepath="$PROJECT_DIR$/examExamples/finalBookExample/finalBookExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/finalComputerExample/finalComputerExample.iml" filepath="$PROJECT_DIR$/examExamples/finalComputerExample/finalComputerExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/finalInterfaceEx01/finalInterfaceEx01.iml" filepath="$PROJECT_DIR$/examExamples/finalInterfaceEx01/finalInterfaceEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/finalInterfaceEx02/finalInterfaceEx02.iml" filepath="$PROJECT_DIR$/examExamples/finalInterfaceEx02/finalInterfaceEx02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/finalTicketExample/finalTicketExample.iml" filepath="$PROJECT_DIR$/examExamples/finalTicketExample/finalTicketExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseTopics/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/courseTopics/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseTopics/interface/interface.iml" filepath="$PROJECT_DIR$/courseTopics/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab02/lab02.iml" filepath="$PROJECT_DIR$/labs/lab02/lab02.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab03/lab03.iml" filepath="$PROJECT_DIR$/labs/lab03/lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab04/lab04.iml" filepath="$PROJECT_DIR$/labs/lab04/lab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab05/lab05.iml" filepath="$PROJECT_DIR$/labs/lab05/lab05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab08/lab08.iml" filepath="$PROJECT_DIR$/labs/lab08/lab08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab6/lab6.iml" filepath="$PROJECT_DIR$/labs/lab6/lab6.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/labs.iml" filepath="$PROJECT_DIR$/labs/labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseTopics/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/courseTopics/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examExamples/postOffice/postOffice.iml" filepath="$PROJECT_DIR$/examExamples/postOffice/postOffice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizQuestion/question1/question1.iml" filepath="$PROJECT_DIR$/quizQuestion/question1/question1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizQuestion/quizQuestion.iml" filepath="$PROJECT_DIR$/quizQuestion/quizQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/week9_ex1/week9_ex1.iml" filepath="$PROJECT_DIR$/examples/week9_ex1/week9_ex1.iml" />
     </modules>
   </component>
 </project>

@@ -5,6 +5,8 @@ public class Main {
         Animal eagle = new Eagle();
 
 
+
+
         Animal[] animals = new Animal[] {cat,duck,eagle};
 
         System.out.println("******SWIMMING ANIMALS*****");
@@ -19,7 +21,7 @@ public class Main {
 
         for(Animal a: animals){
             if (a instanceof Flyable){
-                ((Flyable)a).fly();
+                ((Flyable)a).fly(cat.name);
             }
         }
 

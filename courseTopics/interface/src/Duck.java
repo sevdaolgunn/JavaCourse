@@ -1,7 +1,7 @@
 public class Duck extends Animal implements Flyable, Moveable, Swimmable{
 
     @Override
-    public void fly() {
+    public void fly(String name) {
         System.out.println("duck");
     }
 

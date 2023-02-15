@@ -1,7 +1,4 @@
-import java.util.Scanner;
-
 public class Person {
-
     String firstname;
     String lastname;
     int age;
@@ -22,5 +19,4 @@ public class Person {
 
 
     }
-
 }
